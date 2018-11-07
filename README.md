@@ -56,5 +56,5 @@ There were 2852 female patients above the age of 30 as of today's date.
 ### Bonus Data Exercise
 Missing data is a concern. There was one patient without a gender or a birth date. 
 
-Data quality may also be a concern. For instance, in the encounter table there are multiple instances of a single patient having multiple encounters on a single day. Depending on how an "encounter" is defined, this may not make sense. 
+Data quality may also be a concern. For instance, in the encounter table there are multiple instances of a single patient having multiple encounters on a single day. Looking at the original data model, it may be that "encounter" and "observation" were combined into a single table. This may not make sense. 
 
