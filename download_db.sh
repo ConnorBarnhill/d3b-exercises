@@ -1,0 +1,1 @@
+curl -s -L -o openmrs.db https://www.dropbox.com/s/mgu1s93kpjsoyhh/openmrs.db?dl=1
